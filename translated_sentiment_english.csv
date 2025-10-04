@@ -1,0 +1,501 @@
+Review_ID,Car_Name,Review_English,Sentiment_Score,Sentiment_Label
+1,Honda City,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+2,MG Hector,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+3,Honda City,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+4,Volkswagen Taigun,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+5,Volkswagen Taigun,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+6,Renault Kwid,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+7,Nissan Magnite,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+8,Renault Kwid,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+9,MG Hector,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+10,Nissan Magnite,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+11,Tata Harrier,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+12,Nissan Magnite,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+13,Volkswagen Taigun,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+14,Mahindra XUV700,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+15,Ford EcoSport,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+16,Renault Kwid,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+17,Renault Kwid,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+18,MG Hector,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+19,Nissan Magnite,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+20,Volkswagen Taigun,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+21,Toyota Fortuner,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+22,Toyota Fortuner,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+23,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+24,Jeep Compass,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+25,Honda City,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+26,Maruti Baleno,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+27,Honda City,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+28,Nissan Magnite,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+29,Honda City,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+30,MG Hector,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+31,Ford EcoSport,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+32,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+33,Skoda Kushaq,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+34,Honda City,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+35,Renault Kwid,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+36,Renault Kwid,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+37,Kia Seltos,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+38,Ford EcoSport,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+39,Ford EcoSport,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+40,Kia Seltos,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+41,Volkswagen Taigun,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+42,Toyota Fortuner,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+43,Volkswagen Taigun,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+44,Ford EcoSport,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+45,Maruti Suzuki Swift,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+46,Maruti Suzuki Swift,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+47,Kia Seltos,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+48,Maruti Baleno,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+49,Mahindra XUV700,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+50,Jeep Compass,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+51,Honda City,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+52,Jeep Compass,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+53,Toyota Fortuner,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+54,Renault Kwid,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+55,Jeep Compass,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+56,Mahindra XUV700,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+57,Nissan Magnite,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+58,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+59,Tata Harrier,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+60,Nissan Magnite,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+61,MG Hector,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+62,Kia Seltos,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+63,Mahindra XUV700,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+64,Volkswagen Taigun,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+65,Renault Kwid,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+66,Honda City,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+67,Mahindra XUV700,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+68,Tata Harrier,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+69,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+70,Mahindra XUV700,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+71,Hyundai Creta,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+72,Mahindra XUV700,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+73,Jeep Compass,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+74,Nissan Magnite,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+75,Jeep Compass,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+76,MG Hector,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+77,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+78,Skoda Kushaq,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+79,Ford EcoSport,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+80,Volkswagen Taigun,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+81,Nissan Magnite,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+82,Volkswagen Taigun,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+83,Kia Seltos,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+84,Mahindra XUV700,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+85,Hyundai Creta,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+86,Mahindra XUV700,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+87,Toyota Fortuner,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+88,Hyundai Creta,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+89,Kia Seltos,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+90,Skoda Kushaq,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+91,Ford EcoSport,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+92,Maruti Baleno,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+93,Kia Seltos,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+94,Toyota Fortuner,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+95,Hyundai Creta,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+96,Jeep Compass,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+97,Hyundai Creta,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+98,Jeep Compass,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+99,Kia Seltos,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+100,Nissan Magnite,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+101,Toyota Fortuner,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+102,Maruti Suzuki Swift,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+103,Tata Harrier,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+104,Maruti Baleno,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+105,Hyundai Creta,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+106,Hyundai Creta,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+107,Kia Seltos,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+108,Nissan Magnite,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+109,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+110,Honda City,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+111,Hyundai Creta,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+112,Renault Kwid,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+113,MG Hector,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+114,Hyundai Creta,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+115,Renault Kwid,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+116,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+117,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+118,Toyota Fortuner,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+119,Toyota Fortuner,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+120,MG Hector,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+121,Skoda Kushaq,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+122,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+123,Skoda Kushaq,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+124,Honda City,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+125,MG Hector,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+126,Hyundai Creta,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+127,Toyota Fortuner,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+128,Maruti Baleno,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+129,Skoda Kushaq,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+130,Toyota Fortuner,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+131,Skoda Kushaq,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+132,Kia Seltos,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+133,Maruti Suzuki Swift,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+134,Nissan Magnite,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+135,Skoda Kushaq,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+136,Renault Kwid,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+137,Volkswagen Taigun,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+138,MG Hector,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+139,Honda City,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+140,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+141,Honda City,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+142,Honda City,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+143,Honda City,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+144,Hyundai Creta,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+145,Maruti Suzuki Swift,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+146,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+147,Toyota Fortuner,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+148,Jeep Compass,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+149,Toyota Fortuner,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+150,Tata Harrier,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+151,Toyota Fortuner,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+152,Ford EcoSport,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+153,Volkswagen Taigun,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+154,Ford EcoSport,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+155,Mahindra XUV700,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+156,Kia Seltos,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+157,Tata Harrier,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+158,Honda City,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+159,Toyota Fortuner,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+160,Maruti Suzuki Swift,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+161,Ford EcoSport,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+162,Jeep Compass,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+163,Tata Harrier,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+164,Hyundai Creta,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+165,Mahindra XUV700,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+166,Skoda Kushaq,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+167,Mahindra XUV700,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+168,Tata Harrier,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+169,Toyota Fortuner,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+170,Volkswagen Taigun,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+171,Skoda Kushaq,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+172,Skoda Kushaq,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+173,Renault Kwid,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+174,Toyota Fortuner,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+175,Tata Harrier,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+176,Kia Seltos,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+177,Volkswagen Taigun,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+178,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+179,Ford EcoSport,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+180,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+181,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+182,Tata Harrier,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+183,Toyota Fortuner,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+184,Volkswagen Taigun,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+185,Hyundai Creta,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+186,Skoda Kushaq,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+187,Tata Harrier,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+188,Toyota Fortuner,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+189,Jeep Compass,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+190,Mahindra XUV700,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+191,Honda City,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+192,Honda City,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+193,Hyundai Creta,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+194,Renault Kwid,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+195,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+196,Hyundai Creta,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+197,Toyota Fortuner,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+198,Skoda Kushaq,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+199,Jeep Compass,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+200,Skoda Kushaq,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+201,Toyota Fortuner,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+202,Kia Seltos,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+203,Renault Kwid,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+204,Honda City,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+205,Renault Kwid,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+206,Maruti Suzuki Swift,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+207,MG Hector,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+208,Kia Seltos,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+209,Maruti Suzuki Swift,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+210,Ford EcoSport,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+211,Jeep Compass,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+212,Maruti Suzuki Swift,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+213,Mahindra XUV700,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+214,Maruti Suzuki Swift,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+215,Skoda Kushaq,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+216,Ford EcoSport,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+217,Volkswagen Taigun,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+218,MG Hector,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+219,Mahindra XUV700,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+220,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+221,Hyundai Creta,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+222,MG Hector,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+223,Jeep Compass,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+224,MG Hector,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+225,Maruti Suzuki Swift,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+226,Maruti Baleno,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+227,Maruti Suzuki Swift,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+228,Skoda Kushaq,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+229,Ford EcoSport,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+230,Nissan Magnite,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+231,Jeep Compass,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+232,Kia Seltos,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+233,Toyota Fortuner,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+234,Jeep Compass,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+235,Volkswagen Taigun,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+236,Honda City,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+237,Maruti Baleno,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+238,Honda City,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+239,Kia Seltos,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+240,Volkswagen Taigun,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+241,MG Hector,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+242,Maruti Suzuki Swift,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+243,Tata Harrier,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+244,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+245,Toyota Fortuner,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+246,Honda City,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+247,Maruti Suzuki Swift,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+248,Kia Seltos,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+249,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+250,Mahindra XUV700,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+251,Ford EcoSport,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+252,Mahindra XUV700,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+253,MG Hector,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+254,Toyota Fortuner,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+255,Maruti Baleno,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+256,Maruti Baleno,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+257,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+258,Tata Harrier,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+259,Volkswagen Taigun,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+260,Mahindra XUV700,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+261,Skoda Kushaq,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+262,MG Hector,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+263,Nissan Magnite,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+264,Toyota Fortuner,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+265,Maruti Baleno,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+266,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+267,Honda City,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+268,Volkswagen Taigun,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+269,Renault Kwid,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+270,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+271,Maruti Baleno,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+272,Kia Seltos,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+273,Mahindra XUV700,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+274,Nissan Magnite,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+275,Nissan Magnite,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+276,Maruti Suzuki Swift,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+277,Nissan Magnite,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+278,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+279,Ford EcoSport,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+280,Mahindra XUV700,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+281,Volkswagen Taigun,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+282,Hyundai Creta,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+283,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+284,Volkswagen Taigun,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+285,MG Hector,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+286,Renault Kwid,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+287,Hyundai Creta,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+288,Toyota Fortuner,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+289,Maruti Suzuki Swift,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+290,Jeep Compass,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+291,Tata Harrier,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+292,Hyundai Creta,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+293,Hyundai Creta,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+294,Ford EcoSport,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+295,Volkswagen Taigun,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+296,Mahindra XUV700,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+297,Maruti Suzuki Swift,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+298,Renault Kwid,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+299,Honda City,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+300,Maruti Baleno,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+301,Honda City,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+302,Volkswagen Taigun,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+303,Renault Kwid,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+304,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+305,Tata Harrier,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+306,Jeep Compass,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+307,Kia Seltos,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+308,Ford EcoSport,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+309,Hyundai Creta,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+310,Kia Seltos,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+311,Jeep Compass,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+312,Nissan Magnite,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+313,Maruti Suzuki Swift,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+314,MG Hector,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+315,Ford EcoSport,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+316,Jeep Compass,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+317,Mahindra XUV700,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+318,Skoda Kushaq,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+319,Honda City,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+320,MG Hector,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+321,Jeep Compass,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+322,Jeep Compass,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+323,Kia Seltos,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+324,Ford EcoSport,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+325,Jeep Compass,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+326,Skoda Kushaq,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+327,Kia Seltos,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+328,Nissan Magnite,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+329,Hyundai Creta,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+330,Tata Harrier,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+331,Jeep Compass,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+332,Jeep Compass,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+333,Maruti Baleno,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+334,Jeep Compass,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+335,Mahindra XUV700,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+336,Kia Seltos,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+337,Jeep Compass,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+338,Honda City,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+339,Nissan Magnite,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+340,Renault Kwid,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+341,Maruti Baleno,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+342,Toyota Fortuner,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+343,Hyundai Creta,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+344,Toyota Fortuner,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+345,Mahindra XUV700,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+346,Mahindra XUV700,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+347,Kia Seltos,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+348,Skoda Kushaq,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+349,Renault Kwid,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+350,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+351,MG Hector,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+352,Ford EcoSport,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+353,Hyundai Creta,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+354,Hyundai Creta,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+355,Tata Harrier,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+356,Jeep Compass,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+357,Nissan Magnite,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+358,Renault Kwid,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+359,Mahindra XUV700,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+360,Toyota Fortuner,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+361,Ford EcoSport,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+362,Maruti Suzuki Swift,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+363,Jeep Compass,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+364,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+365,Honda City,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+366,Kia Seltos,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+367,Renault Kwid,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+368,Renault Kwid,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+369,Hyundai Creta,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+370,Hyundai Creta,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+371,Skoda Kushaq,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+372,Mahindra XUV700,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+373,Kia Seltos,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+374,Tata Harrier,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+375,Volkswagen Taigun,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+376,Tata Harrier,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+377,Ford EcoSport,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+378,Skoda Kushaq,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+379,Jeep Compass,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+380,Volkswagen Taigun,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+381,Volkswagen Taigun,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+382,Nissan Magnite,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+383,Toyota Fortuner,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+384,Mahindra XUV700,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+385,Maruti Suzuki Swift,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+386,MG Hector,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+387,Mahindra XUV700,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+388,Mahindra XUV700,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+389,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+390,Toyota Fortuner,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+391,Renault Kwid,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+392,Nissan Magnite,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+393,Skoda Kushaq,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+394,Renault Kwid,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+395,Mahindra XUV700,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+396,Maruti Suzuki Swift,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+397,MG Hector,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+398,Renault Kwid,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+399,Maruti Baleno,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+400,Renault Kwid,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+401,Skoda Kushaq,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+402,Jeep Compass,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+403,Mahindra XUV700,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+404,Volkswagen Taigun,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+405,Ford EcoSport,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+406,Volkswagen Taigun,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+407,Volkswagen Taigun,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+408,Maruti Baleno,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+409,Jeep Compass,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+410,Honda City,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+411,Jeep Compass,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+412,Ford EcoSport,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+413,Tata Harrier,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+414,Volkswagen Taigun,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+415,Renault Kwid,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+416,MG Hector,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+417,Hyundai Creta,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+418,Maruti Baleno,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+419,Nissan Magnite,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+420,Maruti Suzuki Swift,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+421,Maruti Baleno,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+422,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+423,Volkswagen Taigun,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+424,Jeep Compass,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+425,Volkswagen Taigun,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+426,Volkswagen Taigun,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+427,Skoda Kushaq,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+428,Nissan Magnite,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+429,Maruti Suzuki Swift,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+430,Mahindra XUV700,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+431,Nissan Magnite,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+432,Mahindra XUV700,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+433,Volkswagen Taigun,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+434,Toyota Fortuner,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+435,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+436,Volkswagen Taigun,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+437,Kia Seltos,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+438,Kia Seltos,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+439,Tata Harrier,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+440,Toyota Fortuner,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+441,Renault Kwid,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+442,Tata Harrier,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+443,MG Hector,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+444,Maruti Suzuki Swift,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+445,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+446,Jeep Compass,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+447,Ford EcoSport,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+448,Maruti Baleno,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+449,Toyota Fortuner,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+450,Skoda Kushaq,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+451,Volkswagen Taigun,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+452,Maruti Suzuki Swift,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+453,Honda City,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+454,Maruti Suzuki Swift,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+455,Jeep Compass,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+456,Maruti Baleno,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+457,Maruti Baleno,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+458,Renault Kwid,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+459,Maruti Baleno,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+460,Maruti Suzuki Swift,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+461,Nissan Magnite,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+462,Tata Harrier,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+463,Jeep Compass,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+464,Maruti Suzuki Swift,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+465,Ford EcoSport,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+466,Volkswagen Taigun,The mileage of me turned out to be better than expected to me; Great in both city and highway.,0.7906,Positive
+467,Honda City,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+468,Tata Harrier,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+469,Maruti Suzuki Swift,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+470,Jeep Compass,The service network and the after-sale experience did not lose as expected.,0.3089,Positive
+471,Kia Seltos,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+472,Maruti Suzuki Swift,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+473,Kia Seltos,Some points are good and some have scope to improve - Over -neutral experience.,0.7003,Positive
+474,Maruti Suzuki Swift,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+475,Renault Kwid,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+476,Hyundai Creta,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+477,Mahindra XUV700,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+478,Toyota Fortuner,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+479,Maruti Suzuki Swift,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+480,Maruti Baleno,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+481,Tata Harrier,"The interior is premium, seats are comfortable and tiredness is less in long journey.",0.5106,Positive
+482,Renault Kwid,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+483,Jeep Compass,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+484,Kia Seltos,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
+485,Kia Seltos,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+486,Maruti Baleno,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+487,Maruti Baleno,"The cabin is special, but the response of infotainment seems slightly slow.",0.2144,Positive
+488,Skoda Kushaq,The price of the features is more according to the features; No Value for Money.,-0.2584,Negative
+489,Skoda Kushaq,It feels stable and reliable in running; There is no shortage of power on the highway.,0.4479,Positive
+490,Mahindra XUV700,Suspension feels hard and shocks on bad paths seem more satisfied.,-0.5279,Negative
+491,Maruti Suzuki Swift,Mileage was much less than expected and maintenance cost is also high.,0,Neutral
+492,Tata Harrier,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+493,Jeep Compass,"It is fine for daily use; Neither great, nor very disappointing.",0.0902,Positive
+494,Ford EcoSport,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+495,Maruti Suzuki Swift,The steering feedback and braking confidence-ignation-the driving becomes fun.,0.5106,Positive
+496,Maruti Suzuki Swift,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+497,Renault Kwid,The build quality disappoints; There is a lot of road noise in the cabin.,-0.3818,Negative
+498,Maruti Suzuki Swift,"Ride quality is fine; If the price was slightly low, it would have been more attractive.",0.4915,Positive
+499,MG Hector,"According to performance and safety, this budget gives a great value in this budget.",0.8519,Positive
+500,Nissan Magnite,The design is good but the features segment is average; The total experience was fine.,0.5492,Positive
