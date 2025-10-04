@@ -97,3 +97,13 @@ This project establishes a **robust framework for multilingual sentiment analysi
 👨‍💻 **Author:** Sushant Kishan Rathod
 📧 Contact: [sushantrathod6288@gmail.com]
 🔗 GitHub: [https://github.com/Sushant-project62]
+
+**Output**
+<img width="1032" height="648" alt="image" src="https://github.com/user-attachments/assets/53d82c6f-a4f5-4582-9770-01d22cfbb6ab" /><img width="1032" height="668" alt="image" src="https://github.com/user-attachments/assets/3b4fa91b-5ee3-418b-b4ff-d2445ebbb18f" />
+<img width="1032" height="703" alt="image" src="https://github.com/user-attachments/assets/41e7a44f-970f-431b-91a3-8d3437c9eade" /><img width="1032" height="652" alt="image" src="https://github.com/user-attachments/assets/eab1b068-bd4c-4c51-9df3-ed272b5a5ff0" />
+<img width="1032" height="632" alt="image" src="https://github.com/user-attachments/assets/f3a9e454-719d-4521-ac99-a6bb391e9314" /><img width="1032" height="596" alt="image" src="https://github.com/user-attachments/assets/cf14b3f3-9bb5-4731-bd32-b23fcffea3ec" />
+<img width="1036" height="564" alt="image" src="https://github.com/user-attachments/assets/c6966dcd-a424-4e70-bc74-9f7e845dfc7f" />
+
+
+
+
